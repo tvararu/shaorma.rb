@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+sleep 1.5
+puts "Comanda ta a fost preluată! Va ajunge în #{rand(60)} minute!"
