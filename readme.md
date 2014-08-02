@@ -10,7 +10,9 @@ Order food from your terminal. Joke gem.
 
 ## Installation
 
-`gem install shaorma`
+```
+$ gem install shaorma
+```
 
 ## Usage
 
